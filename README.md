@@ -1,4 +1,4 @@
 # clion_template_example
 
 
-* readme test (#1)
+* readme test #1
